@@ -38,6 +38,8 @@ y guardarlos en el registro CCR1 y ajusta el ciclo de trabajo de la señal PWM e
 
 ANÁLISIS DE RESULTADOS 
 
+![Screenshot_20240614-140603_YouTube](https://github.com/ErickDiaz2001/Ejercicio_7/assets/169405943/2d9d7adf-4efa-488b-a2eb-6f44509a9c1a)
+
 ![image](https://github.com/ErickDiaz2001/Ejercicio_7/assets/169405943/6e5dc245-b0b1-4cc3-8d8a-2acb349dde05)
 
 https://youtu.be/N4J-vz5Ius4
